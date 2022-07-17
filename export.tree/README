@@ -1,0 +1,2 @@
+HBN EO/EC datasets                   
+The Healthy Brain Network recorded a single eyes-open and eyes-closed EEG recording with events for switching between states. Eyes-open lasted for 20 second and eyes-closed for 40 seconds. Because such files are difficult to process, they have been segumented here with 5 runs for EO and 5 runs for EC. See notes for included datasets.
